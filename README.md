@@ -1,5 +1,3 @@
-Creating a well-structured project for your GitHub repository is essential for maintaining clarity and organization. Below is a step-by-step guide, including the README file content and the folder/file structure you need for your Node.js application using Express, Mongoose, and Dotenv.
-
 ### Folder and File Structure
 
 Here’s the desired folder and file structure:
