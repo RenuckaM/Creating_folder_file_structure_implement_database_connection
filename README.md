@@ -119,7 +119,7 @@ node ./src/index.js
 
 1. Add your `.gitignore` file to ignore `node_modules` and `.env`:
    ```
-   node_modules/
+   node_modules
    .env
    ```
 
